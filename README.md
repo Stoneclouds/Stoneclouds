@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Cliffton Samuel Noya
 
-<!--
-**Stoneclouds/Stoneclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student (Semester 5)  
+🔐 Interested in Cyber Security, Web Application Security, and Vulnerability Assessment  
 
-Here are some ideas to get you started:
+## 🛡️ Cyber Security Portfolio
+- Web Security Analysis using OWASP ZAP  
+  👉 https://github.com/Stoneclouds/web-security-owasp-zap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+- OWASP ZAP
+- Basic Web Security Concepts (XSS, SQL Injection)
+
+## 📌 Notes
+This portfolio is created for academic and learning purposes only.
+All security testing activities are conducted on legal, authorized,
+and intentionally vulnerable environments.
