@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cliffton Samuel Noya
 
-🎓 Informatics Student (Semester 5)  
+🎓 Informatics Student (Semester 6)  
 🔐 Interested in Cyber Security, Web Application Security, and Vulnerability Assessment  
 
 ## 🛡️ Cyber Security Portfolio
